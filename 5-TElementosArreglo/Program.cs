@@ -34,7 +34,7 @@ namespace _5_TElementosArreglo
                 C.WriteLine(elemento);
             }
 
-
+             
             C.ReadLine();
         }
          
