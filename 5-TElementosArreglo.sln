@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-TElementosArreglo", "5-TElementosArreglo\5-TElementosArreglo.csproj", "{CB23CC50-92ED-494E-B590-A9368B7E34DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB23CC50-92ED-494E-B590-A9368B7E34DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB23CC50-92ED-494E-B590-A9368B7E34DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB23CC50-92ED-494E-B590-A9368B7E34DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB23CC50-92ED-494E-B590-A9368B7E34DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61819B0D-1FB2-4FCD-8164-E2D031F95F2A}
+	EndGlobalSection
+EndGlobal
